@@ -1,14 +1,14 @@
 {
-  "name": "@frctl/mandelbrot",
-  "version": "1.2.1",
-  "description": "The default theme for Fractal.",
+  "name": "@sparkfabrik/firestarter-theme",
+  "version": "1.0.0",
+  "description": "Theme for firestarter based on mandelbrot.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frctl/mandelbrot.git"
+    "url": "https://github.com/jebarreira/firestarter-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/frctl/mandelbrot/issues"
+    "url": "https://github.com/jebarreira/firestarter-theme/issues"
   },
   "author": "Mark Perkins <mark@clearleft.com> (http://clearleft.com/)",
   "license": "MIT",
